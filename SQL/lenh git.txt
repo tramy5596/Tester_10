@@ -1,0 +1,6 @@
+git status ktra trạng thái các file trong thư mục git
+
+git add .  thêm tất cả các file trong thư mục vào trạng thái cb commit
+git commit -m "tên bt " là commit các file thay đỏi trong git
+git push đẩy commit lên repository
+

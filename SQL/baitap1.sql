@@ -3,8 +3,7 @@ DROP DATABASE IF EXISTS Testing_System_Assignment_1;
 CREATE DATABASE  Testing_System_Assignment_1;
 USE Testing_System_Assignment_1;
 
-
-CREATE TABLE Department(
+CREATE TABLE `Department` (
 department_id 	INT,
 department_name VARCHAR(50)
 );
